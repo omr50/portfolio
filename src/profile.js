@@ -198,7 +198,7 @@ const projects = [
     id: "project5",
     name: "Sudoku Player / Solver",
     skills: ["C++, Arduino, Microcontrollers, Electical Engineering"],
-    url: "https://github.com/kaustubhai",
+    url: "https://github.com/omr50/sudokuSolverPlayer",
   },
 ];
 // Edit your Miscellaneous Activities, its name and the url.

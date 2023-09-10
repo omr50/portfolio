@@ -20,7 +20,7 @@ const background = {
 const section2title = "About Me";
 const about = {
   paragraph:
-    "I'm a CS student, tutor, and lab technician at the CUNY College of Staten Island.",
+    "I'm a CS student, tutor, and lab technician at the CUNY College of Staten Island. I'm interested in Full Stack Development, Embedded Systems, and Machine Learning. I'm currently working on two projects: Code Racer and a Home Auto. Code Racer is a multiplayer code typing game to improve coding speed and Home Auto is a mobile app that lets me view my home camera, turn on home lights, and get real time updates of people near my house using a machine learning algorithm.",
 };
 // Edit your skill and the percentage you know about it
 // To Add a skill, copy any one below and paste it after the last comma
